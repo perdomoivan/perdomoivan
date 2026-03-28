@@ -17,6 +17,9 @@
 💡 Responsable, creativo y comprometido  
 🚀 Apasionado por el desarrollo de software  
 🤝 Trabajo en equipo y aprendizaje continuo  
+🔧 Experiencia en PHP, Laravel, MySQL y consumo de APIs REST
+📊 Participación en análisis, desarrollo y documentación de software
+🌱 Aprendizaje continuo y trabajo en equipo
 
 ---
 

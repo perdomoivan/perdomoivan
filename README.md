@@ -1,77 +1,44 @@
-<h1 align="center">👋 Hola, soy Iván Darío Perdomo Pérez</h1>
-<h3 align="center">💻 Tecnólogo en Análisis y Desarrollo de Software</h3>
+Escribiendo SVG
+💻 Aprendiz de Desarrollo de Software | SENA
+Correo electrónico WhatsApp GitHub
+
+Vistas de perfil
+💡 Sobre Mí
+Soy estudiante de Tecnología en Análisis y Desarrollo de Software (ADSO) en el SENA. Me apasiona transformar ideas en código y estoy en constante bolsa de nuevos retos para fortalecer mis habilidades lógicas y técnicas.
+
+Actualmente, me enfoco en crear soluciones web funcionales, poniendo especial énfasis en las buenas prácticas, la responsabilidad y el trabajo en equipo.
+
+const ivan = {    estado: "Aprendiz SENA",    formacion: "Tecnólogo en ADSO (En curso)",    habilidades_principales: ["PHP", "JavaScript", "Laravel", "HTML", "CSS"],    aprendiendo_actualmente: ["Mejores prácticas de código", "POO", "Bases de datos"],    objetivo: "Crecer profesionalmente y aportar valor a un equipo de desarrollo"};
+🛠️Tecnologías y Herramientas
+Aquí está las tecnologías
 
 <p align="center">
-  <em>Siempre aprendiendo 🚀</em>
-</p>
+🚀 **Proyectos yProyectos y Prácticas
+Aquí mestro
 
----
+<tabla>
+<tr>
+<td<td ancho="50%">
+📊 Mi Actividad en GitHub
+<p align="center">
+<img src="
+🎓 **Educación
+🎓 **TecnTecnología en Análisis y Desarrollo de Software
+SENA (En curso
+En
+🏫 Bachiller Académico
+🌎 **IdIdiomas
+🇪🇸 Español: Nativo
+🇺🇸 Inglés: Básico (
+✨ **HabilidadesHabilidades Blandas
+✔
 
-## 🧠 Sobre mí
-Soy una persona responsable, puntual y creativa, con excelente disposición para asumir retos.  
-Me destaco por mi trabajo en equipo y mi interés constante por aprender y mejorar.
-
----
-
-## 🎯 Objetivo
-Aplicar mis conocimientos en desarrollo de software, aportar al crecimiento de una empresa y seguir fortaleciendo mis habilidades profesionales.
-
----
-
-## 🛠️ Tecnologías
+📞 **ContContáctamo
+Si
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github" />
-</p>
-
----
-
-## 📂 Proyectos
-
-🔹 **ComiSoft**  
-Sistema para gestión de comités de forma eficiente y segura  
-Tecnologías: JavaScript  
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perdomoivan&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdomoivan&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🎓 Educación
-
-- 🎓 Bachiller Académico  
-- 💻 Tecnólogo en Análisis y Desarrollo de Software (SENA) - En curso  
-
----
-
-## 🌎 Idiomas
-
-- Español: Nativo  
-- Inglés: Básico  
-
----
-
-## 📞 Contacto
-
-📧 ivanperdomo164@gmail.com  
-📱 +57 3118995673  
-📍 Iquira, Huila  
-
----
-
-## ✨ Habilidades Blandas
-
-✔️ Trabajo en equipo  
-✔️ Responsabilidad  
-✔️ Comunicación  
-✔️ Adaptación  
-✔️ Aprendizaje continuo  
+<a href="
+¿
+El Típulo: Ahora dados **"Aprendiz de Desarrollo de Software | SENA". Esto
+El Bloque de Código: Enestado: "Aprendiz SENA". Esto
+Proyectos: Añ

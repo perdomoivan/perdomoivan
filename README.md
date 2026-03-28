@@ -28,12 +28,32 @@
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías y Herramientas
 
+### 💻 Lenguajes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
+### ⚙️ Frameworks y Librerías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel" />
+</p>
+
+### 🗄️ Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🧰 Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🎨 Diseño
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 ---
 
 ## 📂 Proyectos Destacados

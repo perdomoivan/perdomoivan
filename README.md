@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Tecnólogo en Análisis y Desarrollo de Software</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+Web;Apasionado+por+la+tecnología;Siempre+aprendiendo🚀;Backend+%7C+Frontend" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+Web;Backend+%7C+Frontend;Siempre+aprendiendo🚀;Apasionado+por+la+tecnología" />
 </p>
 
 ---
@@ -39,23 +39,23 @@ Sistema de Gestión Integral del Proceso de Compostaje y Control de Maquinaria
 
 ---
 
-## 📊 Estadísticas (DINÁMICAS 🔥)
+## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perdomoivan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=perdomoivan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=30" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perdomoivan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=perdomoivan&theme=tokyonight&hide_border=true&cache_seconds=30" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdomoivan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdomoivan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=30" />
 </p>
 
 ---
 
-## 🧠 Actividad (GRÁFICA ANIMADA)
+## 📈 Actividad
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perdomoivan&theme=tokyo-night" />
@@ -98,9 +98,7 @@ Sistema de Gestión Integral del Proceso de Compostaje y Control de Maquinaria
 ## 📞 Contacto
 
 <p align="center">
-  <a href="mailto:ivanperdomo164@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-ivanperdomo164@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/ivan-perdomo-2a898039a/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -109,7 +107,7 @@ Sistema de Gestión Integral del Proceso de Compostaje y Control de Maquinaria
 
 ---
 
-<!-- 🔥 FOOTER ANIMADO -->
+<!-- 🔥 FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
 </p>

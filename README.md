@@ -28,21 +28,11 @@
 
 ---
 
+
 ## 🛠️ Tecnologías
 
-### 💻
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
-</p>
-
-### ⚙️
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql" />
-</p>
-
-### 🧰
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,figma,tailwind" />
 </p>
 ---
 

@@ -1,18 +1,22 @@
+<!-- 🔥 HEADER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Iván%20Perdomo&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">💻 Iván Darío Perdomo Pérez</h1>
-<h3 align="center">Tecnólogo en Análisis y Desarrollo de Software</h3>
+<h3 align="center">🚀 Tecnólogo en Análisis y Desarrollo de Software</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+Web;Siempre+aprendiendo🚀;Apasionado+por+la+tecnología" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+Web;Apasionado+por+la+tecnología;Siempre+aprendiendo🚀;Backend+%7C+Frontend" />
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-<p>
-Soy una persona responsable, puntual y creativa, con excelente disposición para asumir cualquier reto.  
-Me caracterizo por mi compromiso, trabajo en equipo y aprendizaje constante.
-</p>
+💡 Responsable, creativo y comprometido  
+🚀 Apasionado por el desarrollo de software  
+🤝 Trabajo en equipo y aprendizaje continuo  
 
 ---
 
@@ -22,47 +26,53 @@ Me caracterizo por mi compromiso, trabajo en equipo y aprendizaje constante.
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github" />
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/git.png" width="60"/>
-</p>
-
 ---
 
 ## 📂 Proyectos Destacados
 
 🔹 **ComiSoft**  
-Sistema de gestión de comités eficiente y seguro  
+Sistema de gestión de comités eficiente  
 
-🔹 Otros proyectos en desarrollo...
+🔹 **Compost__cefa**  
+Sistema de Gestión Integral del Proceso de Compostaje y Control de Maquinaria  
+🌐 https://compostcefa.online/
 
 ---
 
-## 📊 Actividad en GitHub
+## 📊 Estadísticas (DINÁMICAS 🔥)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perdomoivan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=perdomoivan&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perdomoivan&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perdomoivan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdomoivan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdomoivan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Actividad (GRÁFICA ANIMADA)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perdomoivan&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🎓 Educación
 
-📍 2023 - Bachiller Académico  
-📍 2024 - Tecnólogo en Análisis y Desarrollo de Software (SENA)
+🎓 Bachiller Académico  
+💻 Tecnólogo en Análisis y Desarrollo de Software (SENA)
 
 ---
 
 ## 📘 Cursos
 
-✔️ Fundamentos de Seguridad y Salud en el Trabajo  
+✔️ Seguridad y Salud en el Trabajo  
 ✔️ English Does Work - Level 1  
 ✔️ English Does Work - Level 2  
 
@@ -75,12 +85,11 @@ Sistema de gestión de comités eficiente y seguro
 
 ---
 
-## 💡 Habilidades Blandas
+## 💡 Habilidades
 
-✔️ Responsabilidad  
-✔️ Puntualidad  
 ✔️ Trabajo en equipo  
 ✔️ Comunicación  
+✔️ Responsabilidad  
 ✔️ Adaptación  
 ✔️ Aprendizaje continuo  
 
@@ -95,13 +104,12 @@ Sistema de gestión de comités eficiente y seguro
   <a href="https://www.linkedin.com/in/ivan-perdomo-2a898039a/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/WhatsApp-3118995673-25D366?style=for-the-badge&logo=whatsapp"/>
-  </a>
+  <img src="https://img.shields.io/badge/WhatsApp-3118995673-25D366?style=for-the-badge&logo=whatsapp"/>
 </p>
 
 ---
 
+<!-- 🔥 FOOTER ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
 </p>

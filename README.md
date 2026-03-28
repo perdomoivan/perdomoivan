@@ -39,21 +39,20 @@ Sistema de Gestión Integral del Proceso de Compostaje y Control de Maquinaria
 
 ---
 
+
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perdomoivan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=30" />
+  <img src="https://github-readme-stats.vercel.app/api?username=perdomoivan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=perdomoivan&theme=tokyonight&hide_border=true&cache_seconds=30" />
+  <img src="https://streak-stats.demolab.com?user=perdomoivan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdomoivan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=30" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdomoivan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 📈 Actividad
 
